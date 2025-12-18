@@ -1,0 +1,1 @@
+print("ini tugas skripsi pso")
